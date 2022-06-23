@@ -1,8 +1,11 @@
 ## Olá eu sou o Leonardo Miguel!
 <div style="display: inline_block" align="center">
-  <a style="display: flex" href="https://github.com/leomsp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomsp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomsp&layout=compact&langs_count=7&theme=dracula"/></a>
+  <a href="https://github.com/leomsp">
+    <div style="display: flex" align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomsp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomsp&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
+  </a>
 </div>
   
   ##
